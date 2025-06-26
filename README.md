@@ -5,5 +5,5 @@ Un package Python pour explorer les données économiques de la Banque Mondiale.
 ## Installation
 
 ```bash
-pip install data_explorer
+pip install data_explorer_mmd
 ```
